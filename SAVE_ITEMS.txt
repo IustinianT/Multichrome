@@ -1,0 +1,15 @@
+dethroning_shiv;2;
+stronger_form;6;
+light_ammo;6;
+higher_power;5;
+speed_stimulant;6;
+hunter_instincts;6;
+blood_thirst;3;
+fortified_body;6;
+prepared;7;
+crippling_shot;2;
+hot_mag;1;
+rubber_bullet;1;
+calculated_rage;6;
+multishot;4;
+poisoned_bullets;1;

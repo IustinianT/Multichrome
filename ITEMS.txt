@@ -1,0 +1,18 @@
+light_ammo;Decreases your shoot delay by a certain amount;common;stackable;0;
+stronger_form;Increases your max health and heals a small amount;common;stackable;0;
+higher_power;Increases your damage and slightly increases the size of projectiles;common;stackable;0;
+dethroning_shiv;Deal more damage to elite enemies;common;stackable;0;
+speed_stimulant;Increases your movement speed;rare;stackable;0;
+blood_thirst;Heal for a percentage of damage dealt;rare;not_stackable;10;
+fortified_body;Increases your max health (and heals) and collision damage dealt while lowering collision damage taken;rare;stackable;0;
+hunter_instincts;After killing an enemy, gain attack speed and movement speed for a few seconds;rare;stackable;0;
+prepared;After a few seconds, the next elemental effect from the enemy will be ignored;rare;stackable;0;
+worthy_companion;Summon a companion ball that rotates around you and blocks bullets and occasionally shoots enemies;epic;stackable;0;
+rubber_bullet;Your bullets have 1 increased bounce if they collide with the walls;epic;not_stackable;3;
+poisoned_bullets;Unlocks poison form: on use changes current element to poison;epic;stackable;0;
+hot_mag;Unlocks fire form: on use changes current element to fire;epic;stackable;0;
+crippling_shot;Unlocks ice form: on use changes current element to ice;epic;stackable;0;
+calculated_rage;Every few seconds, enter rage dealing more damage and locking your attack speed to a certain amount;legendary;stackable;0;
+multishot;Shoot in one more direction;legendary;not_stackable;5;
+explosive_rounds;Unlocks the 'explosive attack' projectiles;weapon;not_stackable;1;
+laser_shot;Unlocks the 'laser attack' projectiles;weapon;not_stackable;1;
